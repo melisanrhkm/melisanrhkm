@@ -1,9 +1,9 @@
 # 💫 About Me
-🔭 **Currently Working On:** Web-based information systems, including a Laundry Management System and an IoT-based Employee Attendance System.
+🔭 **Currently Working On:** Developing web-based information systems and exploring mobile application development.
 
-👯 **Looking to Collaborate On:** Web development projects, information systems, and beginner-friendly open-source projects.
+👯 **Looking to Collaborate On:** Web development projects, information systems, and beginner-friendly open-source initiatives.
 
-🤝 **Looking for Help With:** Laravel development, database management, frontend development, and improving my programming skills.
+🤝 **Looking for Help With:** Improving my skills in Laravel development, database management, frontend development, and software engineering.
 
 🌱 **Currently Learning:** Laravel, PHP, JavaScript, React Native, Python, MySQL, and Git & GitHub.
 
